@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rotimiseton22.github.io/csb-tf27se/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rotimiseton22.github.io/csb-tf27se/static/js/main.9e99b679.chunk.js",
+    "main.js.map": "https://rotimiseton22.github.io/csb-tf27se/static/js/main.9e99b679.chunk.js.map",
+    "runtime-main.js": "https://rotimiseton22.github.io/csb-tf27se/static/js/runtime-main.9ecd5b0a.js",
+    "runtime-main.js.map": "https://rotimiseton22.github.io/csb-tf27se/static/js/runtime-main.9ecd5b0a.js.map",
+    "static/js/2.661465df.chunk.js": "https://rotimiseton22.github.io/csb-tf27se/static/js/2.661465df.chunk.js",
+    "static/js/2.661465df.chunk.js.map": "https://rotimiseton22.github.io/csb-tf27se/static/js/2.661465df.chunk.js.map",
+    "index.html": "https://rotimiseton22.github.io/csb-tf27se/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rotimiseton22.github.io/csb-tf27se/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.661465df.chunk.js.LICENSE.txt": "https://rotimiseton22.github.io/csb-tf27se/static/js/2.661465df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ecd5b0a.js",
+    "static/js/2.661465df.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9e99b679.chunk.js"
+  ]
+}
